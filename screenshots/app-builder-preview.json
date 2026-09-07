@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ПтахоЗвіт",
+      "hasCanvas": false,
+      "bodyTextLen": 128,
+      "bodyTextHash": "5ba472e7bcc7a69d33a387ac64a06c370c5747cbe737ab806cb68ebc23818a75",
+      "bodyTextPrefix": "ПтахоЗвіт Бройлер · фабрики · пташники Усі господарства ГОСПОДАР",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ПтахоЗвіт",
+      "hasCanvas": false,
+      "bodyTextLen": 969,
+      "bodyTextHash": "b664701ffd9f36129f1bdff81f23e0bd7a0265ec8e17dc74708c41cdee11c9ba",
+      "bodyTextPrefix": "ПтахоЗвіт Поставте ПтахоЗвіт на екран — як програма, усі розділи",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

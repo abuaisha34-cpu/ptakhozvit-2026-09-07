@@ -1,0 +1,1 @@
+import{s as e}from"./link-ND1h4SaJ.js";import{t}from"./app-shell-B20Wiy2l.js";import{f as n}from"./index-B4bBYLRU.js";var r=e();function i(){return(0,r.jsx)(t,{children:(0,r.jsx)(n,{})})}export{i as component};

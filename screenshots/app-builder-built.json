@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ПтахоЗвіт",
+      "hasCanvas": false,
+      "bodyTextLen": 59,
+      "bodyTextHash": "55908c760ffe19682a2cf50904d1dd624b343c814ed2953c379977a2cf2fb631",
+      "bodyTextPrefix": "ПтахоЗвіт Бройлер · фабрики · пташники Завантаження звітів…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ПтахоЗвіт",
+      "hasCanvas": false,
+      "bodyTextLen": 59,
+      "bodyTextHash": "55908c760ffe19682a2cf50904d1dd624b343c814ed2953c379977a2cf2fb631",
+      "bodyTextPrefix": "ПтахоЗвіт Бройлер · фабрики · пташники Завантаження звітів…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text collapsed (128 -> 59 chars)",
+    "mobile: body text collapsed (969 -> 59 chars)"
+  ]
+}

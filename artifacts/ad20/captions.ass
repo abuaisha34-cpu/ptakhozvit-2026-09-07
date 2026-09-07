@@ -1,0 +1,27 @@
+[Script Info]
+Title: PtahoZvit 20s
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,DejaVu Sans,72,&H00FFFFFF,&H000000FF,&H00000000,&H9008140A,-1,0,0,0,100,100,0,0,3,12,0,2,50,50,240,1
+Style: Brand,DejaVu Sans,36,&H00FFFFFF,&H000000FF,&H00000000,&H6608140A,-1,0,0,0,100,100,2,0,3,8,0,8,50,50,90,1
+Style: Title,DejaVu Sans,86,&H00325A2A,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,50,50,430,1
+Style: Line,DejaVu Sans,44,&H00325A2A,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,50,50,330,1
+Style: Url,DejaVu Sans,46,&H00325A2A,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,50,50,250,1
+Style: Phone,DejaVu Sans,52,&H00325A2A,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,50,50,170,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:15.90,Brand,,0,0,0,,ПтахоЗвіт
+Dialogue: 0,0:00:00.20,0:00:04.85,Cap,,0,0,0,,Звіт за вчора — з залу
+Dialogue: 0,0:00:05.05,0:00:10.90,Cap,,0,0,0,,Падіж · корм · вода
+Dialogue: 0,0:00:11.10,0:00:15.90,Cap,,0,0,0,,Норма кросу на екрані
+Dialogue: 0,0:00:16.05,0:00:20.00,Title,,0,0,0,,ПтахоЗвіт
+Dialogue: 0,0:00:16.05,0:00:20.00,Line,,0,0,0,,Демо на сайті
+Dialogue: 0,0:00:16.05,0:00:20.00,Url,,0,0,0,,ptakhozvit.com.ua/demo
+Dialogue: 0,0:00:16.05,0:00:20.00,Phone,,0,0,0,,+380 67 123 19 11
